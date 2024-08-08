@@ -1,0 +1,17 @@
+C:\Backend\Leaguepedia\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Backend\Leaguepedia\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Backend\Leaguepedia\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Backend\Leaguepedia\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\Leaguepedia\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Backend\Leaguepedia\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Backend\Leaguepedia\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Backend\Leaguepedia\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Backend\Leaguepedia\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Backend\Leaguepedia\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Backend\Leaguepedia\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Backend\Leaguepedia\Persistence\bin\Debug\net8.0\Application.dll
+C:\Backend\Leaguepedia\Persistence\bin\Debug\net8.0\Domain.dll
+C:\Backend\Leaguepedia\Persistence\bin\Debug\net8.0\Application.pdb
+C:\Backend\Leaguepedia\Persistence\bin\Debug\net8.0\Domain.pdb
+C:\Backend\Leaguepedia\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Backend\Leaguepedia\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
